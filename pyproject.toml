@@ -8,6 +8,7 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.12"
 haystack-ai = "^2.0.1"
+qdrant-haystack = "^3.5.0"
 
 
 [build-system]
